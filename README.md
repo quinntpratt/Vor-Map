@@ -5,6 +5,7 @@ This program was developed to satisfy project requirements for MATH 380 - 'Compu
 We use mapping tools in python/matplotlib to display a Voronoi Diagram of a geographical data.
 
 This progarm has two (really 3) modes of operation:
+
 0. Google Maps Places API to create an 'interactive' map in MatplotLib
 1. Google Maps Places API to create a static map in MatplotLib
 2. Using pre-downloaded datasets form a GIS server ( in shapefile form)
