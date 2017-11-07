@@ -19,3 +19,8 @@ Furthermore, the program will output shapefiles to a directory called 'Output' w
 Using a GIS program (such as the open-source QGIS) one can easily crop the Voronoi edges to the bounding box and then merge them into a single shapefile, and then use that shapefile for laser-cutting.
 
 An example dataset has been given for Gas Stations in the San Diego Area. We have also inclueded a gif of the interactive mode, as well as an image of the result for half-of the gas stations in the included dataset.
+
+
+A flowchart describing how the program operates is included below:
+
+![alt text](https://raw.githubusercontent.com/quinntpratt/Vor-Map/master/VorMap.png)
