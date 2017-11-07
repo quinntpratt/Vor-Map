@@ -23,4 +23,4 @@ An example dataset has been given for Gas Stations in the San Diego Area. We hav
 
 A flowchart describing how the program operates is included below:
 
-![alt text](https://raw.githubusercontent.com/quinntpratt/Vor-Map/master/VorMap.png)
+![alt text](https://raw.github.com/quinntpratt/Vor-Map/master/VorMap.png)
